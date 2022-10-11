@@ -11,6 +11,8 @@ Just run one of the released binaries for your platform, or build yours from sou
 
 If client connect to your server, server accept only insecure basic auth with plain text creds, which will be logged. In addtion all message body will be logged to.
 
+![Sniffed email](smtp_2.png "Intercepted email and creds")
+
 **Note**: Server logging directly in stdout. If you need write to file, please use output redirect.
 
 
