@@ -1,5 +1,5 @@
 # fake-smtp
-Fake SMTP server for email clinet debugging and credentials gathering.
+Fake SMTP server for email debugging and credentials gathering.
 
 ## Overview
 Simple Golang app for debugging email clients. May used as part of MitM attack during legal penteration tests. It's not a lternative huge frameworks like "Responder". The main goal of this app - is running on simple MIPS arch embedded devices, like routers.
